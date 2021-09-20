@@ -1,6 +1,9 @@
 from tflite_model_maker import image_classifier
 from tflite_model_maker.image_classifier import DataLoader
 
+# To load the model look at:
+# https://www.tensorflow.org/lite/guide/android
+
 # Load input data specific to an on-device ML app.
 data = DataLoader.from_folder(r"C:\Users\vadim\.keras\datasets\flower_photos")
 train_data, test_data = data.split(0.9)
