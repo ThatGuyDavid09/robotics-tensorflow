@@ -15,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/models" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1yNNM1AaCtjcAWnwWz4V5TaxwBm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,6 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
   </component>
   <component name="RunManager" selected="Python.create_tflite_model">
@@ -108,6 +109,14 @@
       <option name="presentableId" value="Default" />
       <updated>1632088034252</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added url">
+      <created>1632176981892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632176981892</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,5 +129,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added url" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added url" />
   </component>
 </project>
