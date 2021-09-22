@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cubes</folder>
+	<filename>IMG_9798.jpg</filename>
+	<path>C:\Users\vadim\Documents\Personal stuff\Cool bits of code\Tensorflow object detection\training_data\cubes\IMG_9798.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cube</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>491</xmin>
+			<ymin>1220</ymin>
+			<xmax>1949</xmax>
+			<ymax>2841</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>IMG_9850.JPG</filename>
+	<path>C:\Users\vadim\Documents\Personal stuff\Cool bits of code\Tensorflow object detection\training_data\balls\IMG_9850.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1887</xmin>
+			<ymin>834</ymin>
+			<xmax>2490</xmax>
+			<ymax>1437</ymax>
+		</bndbox>
+	</object>
+</annotation>
